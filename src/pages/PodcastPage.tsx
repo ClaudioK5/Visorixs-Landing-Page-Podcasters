@@ -349,7 +349,6 @@ function PodcastPage() {
           <a href={site.appUrl} rel="noopener noreferrer">
             Open the app
           </a>
-          <a href="/creators">Creators</a>
           <a href="/" aria-current="page">
             Podcasts
           </a>
